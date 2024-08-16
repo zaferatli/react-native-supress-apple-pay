@@ -1,6 +1,6 @@
 {
-  "name": "react-native-pass-kit-helper",
-  "title": "React Native Pass Kit Helper",
+  "name": "react-native-supress-apple-pay",
+  "title": "React Native Apple Pay Supresser",
   "version": "1.0.0",
   "description": "Suppress apple pay in React-Native",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-pass-kit-helper.git",
-    "baseUrl": "https://github.com/github_account/react-native-pass-kit-helper"
+    "url": "git+https://github.com/github_account/react-native-supress-apple-pay.git",
+    "baseUrl": "https://github.com/github_account/react-native-supress-apple-pay"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Arnold Sanglepp",
-    "email": "arnold@singleton.ee"
+    "name": "Arnold Sanglepp & Zafer ATLI",
+    "email": "zaferr@protonmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
